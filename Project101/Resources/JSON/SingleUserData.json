@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 1,
+        "email": "mm@swift.com",
+        "firstname": "mm",
+        "lastname": "mm",
+        "avatar": "mm"
+    },
+    "suppor": {
+        "url": "",
+        "text": ""
+    }
+}
