@@ -8,6 +8,8 @@
 import SwiftUI
 
 enum Symbols {
-    static let person = Image(systemName: "person");
+    static let person = Image(systemName: "person.2");
     static let plus = Image(systemName: "plus");
+    static let gear = Image(systemName: "gear")
+    static let link = Image(systemName: "link")
 }

@@ -2,12 +2,12 @@
     "data": {
         "id": 1,
         "email": "mm@swift.com",
-        "firstname": "mm",
-        "lastname": "mm",
-        "avatar": "mm"
+        "first_name": "mm",
+        "last_name": "mm",
+        "avatar": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/S/E/67343_1663482037.jpg",
     },
-    "suppor": {
-        "url": "",
-        "text": ""
+    "support": {
+        "url": "https://www-konga-com-res.cloudinary.com/",
+        "text": "Konga"
     }
 }
